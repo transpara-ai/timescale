@@ -8,4 +8,4 @@ its route rules. The canonical source is [transpara-ai/tlc](https://github.com/t
 
 TLC is an external, unpinned developer dependency. Host maintainers install and
 update it; repository configuration does not pin, install, enable, or copy the
-workflow. Preserve the project-specific instructions and verification above.
+workflow. Preserve this repository's project-specific instructions and verification requirements.
